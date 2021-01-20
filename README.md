@@ -1,1 +1,1 @@
-This repository is my Titanic Dataset Solution and the dataset is Titanic -Machine Learning from Disaster Dataset, one of the Kaggle competition for beginners. I got the dataset here https://www.kaggle.com/c/titanic. In this competition, my highest score is 0.77751 (Top 33%), but in this repositories, I only got 0.76555 using voting ensemble. I will continue to study to improve my score. 
+This repository is my Titanic Dataset Solution and the dataset is Titanic -Machine Learning from Disaster Dataset, one of the Kaggle competition for beginners. 
